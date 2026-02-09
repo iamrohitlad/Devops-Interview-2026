@@ -18,4 +18,8 @@ Questions of Virtual Interview ROund 1 -
 11. Tell me about neosoft
 12. Why do you change your job ?
 13. Going on an intermediate level ? will you be able to explain commands ( technical deep dive in devops )
-14. Tell me about the critical incidents handled like a P1 /P2 issue for any client based application ? Explain in deep ( USE STAR Method for explaination ) 
+14. Tell me about the critical incidents handled like a P1 /P2 issue for any client based application ? Explain in deep ( USE STAR Method for explaination )
+
+    2ND Round ( F2F Neosoft Dadar )
+    1. Tell me about yourself
+    2. 
