@@ -22,4 +22,6 @@ Questions of Virtual Interview ROund 1 -
 
     2ND Round ( F2F Neosoft Dadar )
     1. Tell me about yourself
-    2. 
+    2. Explain your projects and overall cloud infrastructure in AWS Azure or maybe GCP Platform
+    3. Explain the AWS architecture in detail ? Explain AWS cloud infrastructure in your project ( HITACHI ENERGY )
+    4. 
