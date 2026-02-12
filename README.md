@@ -25,3 +25,4 @@ Questions of Virtual Interview ROund 1 -
     2. Explain your projects and overall cloud infrastructure in AWS Azure or maybe GCP Platform
     3. Explain the AWS architecture in detail ? Explain AWS cloud infrastructure in your project ( HITACHI ENERGY )
     4. What is an AWS Lambda ? what is your infrastructure setup in AWS terraform ?
+    5. What is AWS VPC , ec2 instance , VPC Peering and how can you connect 2 instances in same network or VPC ?
