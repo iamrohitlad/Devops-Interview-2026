@@ -26,3 +26,11 @@ Questions of Virtual Interview ROund 1 -
     3. Explain the AWS architecture in detail ? Explain AWS cloud infrastructure in your project ( HITACHI ENERGY )
     4. What is an AWS Lambda ? what is your infrastructure setup in AWS terraform ?
     5. What is AWS VPC , ec2 instance , VPC Peering and how can you connect 2 instances in same network or VPC ?
+    6. What is a subnet ? difference between private subnet and public subnet ?
+    7. how will setup an AWS VPC ? Explain CIDR block ?
+    8. Cost optimization of an AWS cloud any ? Personal setup ? Company/client setup ?
+    9. Explain region & availability zone ?
+    10. Explain any of your clients cloud or Devops Infrastructure ?
+        
+    CAPGEMINI ( Senior Infrastructure Engineer / Devops )
+     
