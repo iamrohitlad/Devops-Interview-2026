@@ -33,4 +33,12 @@ Questions of Virtual Interview ROund 1 -
     10. Explain any of your clients cloud or Devops Infrastructure ?
         
     CAPGEMINI ( Senior Infrastructure Engineer / Devops )
+    1. Tell me about yourself / Introduce yourself ?
+    2. Explain your key projects and the roles and responsibilities you played as a devops engineer
+    3. Explain what is an Azure resource manager ?
+    4. Explain Azure VM sets and availaiblity sets ?
+    5. What are azure secret key rotations ? Explain Azure CI/CD pipeline and cloud infrastructure
+    6. Explain how jenkins pipeline is connected to other cloud tools like Azure infra or AWS infra ? - Ans : Service Account
+    7. Explain Azure different tools and their terminologies ?
+    8. 
      
