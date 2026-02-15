@@ -1,7 +1,7 @@
 # Devops-Interview-2026
 This repository is a curated collection of interview preparation notes, Q&amp;A files, and scenario-based problem-solving exercises from my DevOps/SRE interviews throughout 2026. It covers experiences across multiple formats—walk-in drives, virtual interviews, and company-specific technical rounds.
 
-NEOSOFT Interview 
+NEOSOFT Interview ( December 2025 ) 
 Interview Modes - Virtual and F2F 
 Virtual Interview Round 1 
 Questions of Virtual Interview ROund 1 - 
@@ -32,7 +32,7 @@ Questions of Virtual Interview ROund 1 -
     9. Explain region & availability zone ?
     10. Explain any of your clients cloud or Devops Infrastructure ?
         
-    CAPGEMINI ( Senior Infrastructure Engineer / Devops )
+    CAPGEMINI ( Senior Infrastructure Engineer / Devops ) ( Jan 2026 ) 
     1. Tell me about yourself / Introduce yourself ?
     2. Explain your key projects and the roles and responsibilities you played as a devops engineer
     3. Explain what is an Azure resource manager ?
@@ -40,5 +40,14 @@ Questions of Virtual Interview ROund 1 -
     5. What are azure secret key rotations ? Explain Azure CI/CD pipeline and cloud infrastructure
     6. Explain how jenkins pipeline is connected to other cloud tools like Azure infra or AWS infra ? - Ans : Service Account
     7. Explain Azure different tools and their terminologies ?
-    8. 
+    8. What is an Azure disk and types of storage in Azure cloud ?
+    9. Have you done any certifications in Azure ?
+    10. Why you want to join capgemini
+        Cross Question :
+        1. How is capgemini different from its competitors ?
+        2. WFH and hyrbid office policy ? terms and conditions ?
+        3. How is capgemini moving towards Gen AI and cloud devops infrastructure ?
+        4. how do you think as a cloud architect and how devops is evolving ?
+
+    
      
