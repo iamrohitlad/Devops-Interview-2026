@@ -49,5 +49,20 @@ Questions of Virtual Interview ROund 1 -
         3. How is capgemini moving towards Gen AI and cloud devops infrastructure ?
         4. how do you think as a cloud architect and how devops is evolving ?
 
+    ERGO Tech ( Mumbai - Powai ) Interview
+    This company came to me for via a third party vendor for a Cloud Engineer role in their European Team . First round was taken by the CTO of the company .
+    Virtual Interview Round -1
+    1. Tell me about yourself ?
+    2. What is devops ? what is devsecops ?
+    3. What is CI /CD Pipeline ?
+    4. What is a difference between Jenkins & Gitlab CI /CD Pipeline ?
+    5. What is the difference between git push git fetch and git release ?
+    6. What is SDD & HDD ? Which is a better version in today's world ?
+    7. What is docker what is kubernetes ?
+    8. Why do you want to join ERGO tech ?
+    9. What were the roles & responsibilities for your previous role ?
+    10. Explain some scenarios where you handled a criticial issue in your carrer / project ?
+        
+
     
      
