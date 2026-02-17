@@ -62,6 +62,16 @@ Questions of Virtual Interview ROund 1 -
     8. Why do you want to join ERGO tech ?
     9. What were the roles & responsibilities for your previous role ?
     10. Explain some scenarios where you handled a criticial issue in your carrer / project ?
+
+  Awaiting for the 2nd Round for ERGO technology services 
+
+  GODREJ Infotech ( Mumbai - Vikhroli West Onsite Company Location ) Interview 
+  This company is situated and approached me through naukri.com shortlisted for the F2F interview . This company of a general aptitude test of 25 questions based on Arithmetic Ability , Verbal ability and Logical Reasoning 
+  25 Questions passing is 15 to 16 questions . Pro -Tip attempt all questions ( No mobile phones or calculator a godrej employee will be sitting with you in a meeting room for supervision ) 
+  After 20 mins they announce the result 
+  1. 
+  
+  
         
 
     
