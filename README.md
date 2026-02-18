@@ -69,7 +69,13 @@ Questions of Virtual Interview ROund 1 -
   This company is situated and approached me through naukri.com shortlisted for the F2F interview . This company of a general aptitude test of 25 questions based on Arithmetic Ability , Verbal ability and Logical Reasoning 
   25 Questions passing is 15 to 16 questions . Pro -Tip attempt all questions ( No mobile phones or calculator a godrej employee will be sitting with you in a meeting room for supervision ) 
   After 20 mins they announce the result 
-  1. 
+  1. Tell me about yourself
+  2. What are the projects and responsibilites you have taken and worked upon ?
+  3. what are CI / CD statergies you have worked upon ?
+  4. What is sonarqube analysis ?
+  5. how to do you secure a pipeline or a production code in a SAST environment ?
+  6. How to write a complete CI/CD Pipeline ?
+  7. 
   
   
         
