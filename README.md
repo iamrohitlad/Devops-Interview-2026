@@ -75,7 +75,13 @@ Questions of Virtual Interview ROund 1 -
   4. What is sonarqube analysis ?
   5. how to do you secure a pipeline or a production code in a SAST environment ?
   6. How to write a complete CI/CD Pipeline ?
-  7. 
+  7. Explain the application infrastructure devops on which cloud platforms applications were deployed ?
+  8. Explain AWS and Azure cloud difference ?
+  9. Explain SAST and DAST environment testing ?
+  10. Explain Trivy file scan and sonarqube code quality gate scanner ?
+  11. Write a simple terraform code or script for an AWS ec2 instance ?
+  12. Write a Bash Shell script a sample for monitoring CPU usage and utilization ?
+  13. Explain kubernetes architecture in detail ?
   
   
         
