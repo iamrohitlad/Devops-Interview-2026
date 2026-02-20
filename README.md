@@ -82,6 +82,8 @@ Questions of Virtual Interview ROund 1 -
   11. Write a simple terraform code or script for an AWS ec2 instance ?
   12. Write a Bash Shell script a sample for monitoring CPU usage and utilization ?
   13. Explain kubernetes architecture in detail ?
+  14. Explain the overall roles and responsibilities you handled across your role ?
+  15. Explain containerization architecture and docker commands in detail ?
   
   
         
