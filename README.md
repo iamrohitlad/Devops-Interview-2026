@@ -85,12 +85,12 @@ Questions of Virtual Interview ROund 1 -
   14. Explain the overall roles and responsibilities you handled across your role ?
   15. Explain containerization architecture and docker commands in detail ?
 
- TCS WALK-IN DRIVE ( AWS DEVOPS ENGINEER INTERVIEW ) 
- 1.
- 2.
- 3.
- 4.
- 5.
+ TCS WALK-IN DRIVE ( AWS DEVOPS ENGINEER INTERVIEW ) TCS walk-in interview consists of Technical round 1 , round2 , managerial round and HR round
+ 1. Tell me about AWS Services ?
+ 2. How can a deleted state file be retrieved ?
+ 3. Explain File provisioning ?
+ 4. How is a code moved from non-prod to a prod environment ?
+ 5. What tools have you used to check the quality of code written for deployment ?
   
   
         
