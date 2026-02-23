@@ -91,6 +91,8 @@ Questions of Virtual Interview ROund 1 -
  3. Explain File provisioning ?
  4. How is a code moved from non-prod to a prod environment ?
  5. What tools have you used to check the quality of code written for deployment ?
+ 6. What are actual tools used in your experience and how you have tackled the challenges faced in devops ?
+ 7. 
   
   
         
