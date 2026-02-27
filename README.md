@@ -103,7 +103,8 @@ Questions of Virtual Interview ROund 1 -
  14. How do you reduce a docker image size ?
  15. One IAM / Role permission which we cannot work ?
 TECHNICAL ROUND 2 :
-1.
+1. What is devops ? Explain Devsecops ?
+2. 
   
   
         
