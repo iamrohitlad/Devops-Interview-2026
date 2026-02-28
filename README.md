@@ -104,7 +104,14 @@ Questions of Virtual Interview ROund 1 -
  15. One IAM / Role permission which we cannot work ?
 TECHNICAL ROUND 2 :
 1. What is devops ? Explain Devsecops ?
-2. 
+2. What is azure CI/CD pipeline ? Explain azure resources ?
+3. What are the major project contributions done in your current software / IT carrer ?
+4. What is an anisible script ?
+5. Explain terraform and you usage in the project ?
+6. Key responsibilities as a Devops Engineer in day to day life ?
+7. Explain anisible and what language uses ?
+8. Why you want to join TCS ? Will you be able to travel or compute to boravali location ?
+9. 
   
   
         
