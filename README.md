@@ -102,6 +102,7 @@ Questions of Virtual Interview ROund 1 -
  13. What is a configmap ?
  14. How do you reduce a docker image size ?
  15. One IAM / Role permission which we cannot work ?
+     
 TECHNICAL ROUND 2 :
 1. What is devops ? Explain Devsecops ?
 2. What is azure CI/CD pipeline ? Explain azure resources ?
@@ -111,7 +112,18 @@ TECHNICAL ROUND 2 :
 6. Key responsibilities as a Devops Engineer in day to day life ?
 7. Explain anisible and what language uses ?
 8. Why you want to join TCS ? Will you be able to travel or compute to boravali location ?
-9. 
+9. Write or explain a simple anisible dynamic script ?
+10. Explain Jenkins or Gitlab CI/CD Pipeline ?
+11. Explain what is sonarqube analysis ?
+12. Explain SAST And DAST testing ?
+13. Explain a critical issue or deployment handled by you ?
+    
+MANAGERIAL ROUND :
+1. What are the key responsiblites handled by you and your team ?
+2. Explain the critical issues managed by you in your project ?
+3. Explain Cost optimization stratergy in your projects or maybe personal lab setup ?
+4. Explain Trivy file scan ? And steps taken by you during the SAST and DAST type deployment or testing ?
+
   
   
         
