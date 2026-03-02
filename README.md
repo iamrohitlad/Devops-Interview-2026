@@ -124,6 +124,9 @@ MANAGERIAL ROUND :
 3. Explain Cost optimization stratergy in your projects or maybe personal lab setup ?
 4. Explain Trivy file scan ? And steps taken by you during the SAST and DAST type deployment or testing ?
 
+   FURATION TECH ( DEVOPS ENGINEER ROUND )
+   1.
+   2.
   
   
         
