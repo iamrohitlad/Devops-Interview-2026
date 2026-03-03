@@ -124,9 +124,17 @@ MANAGERIAL ROUND :
 3. Explain Cost optimization stratergy in your projects or maybe personal lab setup ?
 4. Explain Trivy file scan ? And steps taken by you during the SAST and DAST type deployment or testing ?
 
-   FURATION TECH ( DEVOPS ENGINEER ROUND )
-   1.
-   2.
+   FURATION TECH ( DEVOPS ENGINEER ROUND Interview -1 ) 
+   1.Tell me about yourself ?
+   2. What is Devops ?
+   3. Explain difference between Devops & Dev-Sec-Ops ?
+   4. Explain Docker & Kubernetes ?
+   5. Explain Jenkins CI/CD Pipeline ?
+   6. Explain what is different betweem git fetch and git push ?
+   7. Explain your anyone of the project architecture in detail ?
+   8. Tell me about the cost optimization of your project ?
+   9. Explain any critical issue you have handled personally ?
+   10. Explain AWS cloud fundamentals in detail ?
   
   
         
