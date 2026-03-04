@@ -135,6 +135,9 @@ MANAGERIAL ROUND :
    8. Tell me about the cost optimization of your project ?
    9. Explain any critical issue you have handled personally ?
    10. Explain AWS cloud fundamentals in detail ?
+
+   FURATION TECH ( DEVOPS ENGINEER ROUND Interview -2 ) ( Nikhil will fill this after the interview ) 
+   
   
   
         
