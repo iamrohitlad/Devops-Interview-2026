@@ -136,11 +136,16 @@ MANAGERIAL ROUND :
    9. Explain any critical issue you have handled personally ?
    10. Explain AWS cloud fundamentals in detail ?
 
-   FURATION TECH ( DEVOPS ENGINEER ROUND Interview -2 ) ( Nikhil will fill this after the interview ) 
-   
-  
-  
-        
+   FURATION TECH ( DEVOPS ENGINEER ROUND Interview -2 ) ( Nikhil will fill this after the interview )
 
-    
-     
+   DEVOPS ENGINEER - ( NETWORKSCIENCE.AI )
+
+1.
+2.   
+3. 
+4. 
+5.       
+6.
+7.    
+8.    
+9.
