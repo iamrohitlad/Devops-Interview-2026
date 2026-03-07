@@ -138,14 +138,15 @@ MANAGERIAL ROUND :
 
    FURATION TECH ( DEVOPS ENGINEER ROUND Interview -2 ) ( Nikhil will fill this after the interview )
 
-   DEVOPS ENGINEER - ( NETWORKSCIENCE.AI )
+   DEVOPS ENGINEER - ( NETWORKSCIENCE.AI - STARTUP - GOREGAON - MUMBAI ) 
 
-1.
-2.   
-3. 
-4. 
-5.       
-6.
-7.    
+1. Tell me about yourself ?
+2. What were your roles and responsibities in your previous organization ?  
+3. Explain your day to day activities as a devops engineer ?
+4. What is devops and cloud ? explain difference between devops and dev-sec-ops ?
+5. 
+6.       
+7.
 8.    
-9.
+9.    
+10.
