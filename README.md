@@ -144,9 +144,10 @@ MANAGERIAL ROUND :
 2. What were your roles and responsibities in your previous organization ?  
 3. Explain your day to day activities as a devops engineer ?
 4. What is devops and cloud ? explain difference between devops and dev-sec-ops ?
-5. 
-6.       
-7.
-8.    
+5. What is the difference between cloud engineer cloud architect and devops engineer ?
+6. Explain your projects and clients for the company which you have served ?
+7.       
+8.
 9.    
-10.
+10.    
+11.
