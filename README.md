@@ -147,7 +147,7 @@ MANAGERIAL ROUND :
 5. What is the difference between cloud engineer cloud architect and devops engineer ?
 6. Explain your projects and clients for the company which you have served ?
 7. Explain the difference between docker and kubernetes ?   
-8.
+8. What are the cloud technologies you have worked on explain in detail ?
 9.    
 10.    
 11.
