@@ -23,14 +23,15 @@ Questions of Virtual Interview ROund 1 -
     2ND Round ( F2F Neosoft Dadar )
     1. Tell me about yourself
     2. Explain your projects and overall cloud infrastructure in AWS Azure or maybe GCP Platform
-    3. Explain the AWS architecture in detail ? Explain AWS cloud infrastructure in your project ( HITACHI ENERGY )
-    4. What is an AWS Lambda ? what is your infrastructure setup in AWS terraform ?
-    5. What is AWS VPC , ec2 instance , VPC Peering and how can you connect 2 instances in same network or VPC ?
-    6. What is a subnet ? difference between private subnet and public subnet ?
-    7. how will setup an AWS VPC ? Explain CIDR block ?
-    8. Cost optimization of an AWS cloud any ? Personal setup ? Company/client setup ?
-    9. Explain region & availability zone ?
-    10. Explain any of your clients cloud or Devops Infrastructure ?
+    3. Have you worked on on-prod deployment and disaster recovery stratergies ?
+    4. Explain the AWS architecture in detail ? Explain AWS cloud infrastructure in your project ( HITACHI ENERGY )
+    5. What is an AWS Lambda ? what is your infrastructure setup in AWS terraform ?
+    6. What is AWS VPC , ec2 instance , VPC Peering and how can you connect 2 instances in same network or VPC ?
+    7. What is a subnet ? difference between private subnet and public subnet ?
+    8. how will setup an AWS VPC ? Explain CIDR block ?
+    9. Cost optimization of an AWS cloud any ? Personal setup ? Company/client setup ?
+    10. Explain region & availability zone ?
+    11. Explain any of your clients cloud or Devops Infrastructure ?
         
     CAPGEMINI ( Senior Infrastructure Engineer / Devops ) ( Jan 2026 ) 
     1. Tell me about yourself / Introduce yourself ?
