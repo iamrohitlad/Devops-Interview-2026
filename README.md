@@ -149,6 +149,5 @@ MANAGERIAL ROUND :
 6. Explain your projects and clients for the company which you have served ?
 7. Explain the difference between docker and kubernetes ?   
 8. What are the cloud technologies you have worked on explain in detail ?
-9.    
-10.    
-11.
+9. Are you active in coding which programming languages you can code ?
+10. What are the roles and responsibilities of you in as a devops engineer ?   
