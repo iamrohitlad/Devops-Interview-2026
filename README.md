@@ -145,9 +145,11 @@ MANAGERIAL ROUND :
 2. What were your roles and responsibities in your previous organization ?  
 3. Explain your day to day activities as a devops engineer ?
 4. What is devops and cloud ? explain difference between devops and dev-sec-ops ?
-5. What is the difference between cloud engineer cloud architect and devops engineer ?
-6. Explain your projects and clients for the company which you have served ?
-7. Explain the difference between docker and kubernetes ?   
-8. What are the cloud technologies you have worked on explain in detail ?
-9. Are you active in coding which programming languages you can code ?
-10. What are the roles and responsibilities of you in as a devops engineer ?   
+5. Explain the difference between cloud AI Automation Devops & Dev Secops ?
+6. 
+7. What is the difference between cloud engineer cloud architect and devops engineer ?
+8. Explain your projects and clients for the company which you have served ?
+9. Explain the difference between docker and kubernetes ?   
+10. What are the cloud technologies you have worked on explain in detail ?
+11. Are you active in coding which programming languages you can code ?
+12. What are the roles and responsibilities of you in as a devops engineer ?   
