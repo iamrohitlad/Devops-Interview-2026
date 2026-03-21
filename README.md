@@ -152,4 +152,8 @@ MANAGERIAL ROUND :
 9. Explain the difference between docker and kubernetes ?   
 10. What are the cloud technologies you have worked on explain in detail ?
 11. Are you active in coding which programming languages you can code ?
-12. What are the roles and responsibilities of you in as a devops engineer ?   
+12. What are the roles and responsibilities of you in as a devops engineer ?
+
+    ----------------NITOR INFOTECH ---JUNIOR DEVOPS ENGINEER --------------------------------
+    TECHNICAL ROUND - 1
+    1.
