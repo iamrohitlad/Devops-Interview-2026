@@ -160,7 +160,9 @@ MANAGERIAL ROUND :
 2. what is devops and dev sec ops ?
 3. Explain your projects end to end in detail ?
 4. Explain what is docker and difference between docker push and docker pull ?
-5. 
+5. Explain difference between kubernetes and docker ?
+6. What is an application pod ? what is a cluster and a node ?
+7. 
 
 
 
