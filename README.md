@@ -162,7 +162,10 @@ MANAGERIAL ROUND :
 4. Explain what is docker and difference between docker push and docker pull ?
 5. Explain difference between kubernetes and docker ?
 6. What is an application pod ? what is a cluster and a node ?
-7. 
+7.  What is dev-sec-ops ml-ops and ai-ops ?
+8.  explain difference between AKS and EKS in detail ?
+9.  Explain docker containerization and Kubernetes Architecture in detail ?
+10. Explain AWS code pipeline code built and deploy ? Do you have any experience in it ?
 
 
 
