@@ -166,6 +166,9 @@ MANAGERIAL ROUND :
 8.  explain difference between AKS and EKS in detail ?
 9.  Explain docker containerization and Kubernetes Architecture in detail ?
 10. Explain AWS code pipeline code built and deploy ? Do you have any experience in it ?
+11. explain AWS Lambda in detail ?
+12. Explain Azure function and its basic principle and key usage ?
+13. 
 
 
 
