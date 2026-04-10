@@ -1,3 +1,4 @@
+'
 # Devops-Interview-2026-27
 This repository is a curated collection of interview preparation notes, Q&amp;A files, and scenario-based problem-solving exercises from my DevOps/SRE interviews throughout 2026. It covers experiences across multiple formats—walk-in drives, virtual interviews, and company-specific technical rounds.
 
@@ -168,7 +169,7 @@ MANAGERIAL ROUND :
 10. Explain AWS code pipeline code built and deploy ? Do you have any experience in it ?
 11. explain AWS Lambda in detail ?
 12. Explain Azure function and its basic principle and key usage ?
-13. 
+13. Explain terraform infrastructure in detail ?
 
 
 
