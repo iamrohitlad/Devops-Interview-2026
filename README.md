@@ -171,7 +171,22 @@ MANAGERIAL ROUND :
 12. Explain Azure function and its basic principle and key usage ?
 13. Explain terraform infrastructure in detail ?
 
+TECHNICAL ROUND -2 -----Junior Devops Engineer-----------------------------------------------------------------
+1. Introduce yourself ?
+2. What are the core areas you have worked on ? Explain in detail
+3. What is docker image ? Explain different types of image
+4. Explain which one you are familiar with ubuntu , debian which one is better ?
+5. Explain devsecops and devops in detail ?
+6. Explain critical things and issues which you have handled in the team ?
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
 
 
 
-    1.
