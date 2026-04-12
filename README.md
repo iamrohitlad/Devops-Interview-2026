@@ -178,15 +178,17 @@ TECHNICAL ROUND -2 -----Junior Devops Engineer----------------------------------
 4. Explain which one you are familiar with ubuntu , debian which one is better ?
 5. Explain devsecops and devops in detail ?
 6. Explain critical things and issues which you have handled in the team ?
-7.
-8.
-9.
+7. Explain in detail how you handle a production or a server issue ?
+8.  Write a simple docker image ?
+9.  Explain Kubernetes Architecture ? Have you ever used AWS EKS or Azure AKS ?
 10.
 11.
 12.
 13.
 14.
-15.
+   
+   
+
 
 
 
