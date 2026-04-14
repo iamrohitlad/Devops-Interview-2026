@@ -147,7 +147,7 @@ MANAGERIAL ROUND :
 3. Explain your day to day activities as a devops engineer ?
 4. What is devops and cloud ? explain difference between devops and dev-sec-ops ?
 5. Explain the difference between cloud AI Automation Devops & Dev Secops ?
-6. 
+6. Explain AWS EKS architecture ?
 7. What is the difference between cloud engineer cloud architect and devops engineer ?
 8. Explain your projects and clients for the company which you have served ?
 9. Explain the difference between docker and kubernetes ?   
@@ -178,15 +178,15 @@ TECHNICAL ROUND -2 -----Junior Devops Engineer----------------------------------
 4. Explain which one you are familiar with ubuntu , debian which one is better ?
 5. Explain devsecops and devops in detail ?
 6. Explain critical things and issues which you have handled in the team ?
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+7. Explain the overall cloud architecture you have managed 
+8.How do you design and implement a CI/CD pipeline? Walk me through the tools and steps.
+9.What is Infrastructure as Code (IaC)? Which tools have you used and why?
+10.How do you monitor applications and infrastructure? Explain metrics, logging, and alerting.
+11.What is the difference between horizontal and vertical scaling in cloud environments?
+12.How do you handle secrets and sensitive data in DevOps workflows?
+13.Explain blue-green deployment vs canary deployment. Which one have you implemented?
+14.How do you ensure high availability and disaster recovery in cloud systems?
+15.What’s your approach to troubleshooting a failed deployment in Kubernetes?
 
 
 
