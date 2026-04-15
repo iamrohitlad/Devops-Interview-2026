@@ -187,6 +187,7 @@ TECHNICAL ROUND -2 -----Junior Devops Engineer----------------------------------
 13.Explain blue-green deployment vs canary deployment. Which one have you implemented?
 14.How do you ensure high availability and disaster recovery in cloud systems?
 15.What’s your approach to troubleshooting a failed deployment in Kubernetes?
+--------------------------------------------------------------------------------------------------------------------
 
 
 
